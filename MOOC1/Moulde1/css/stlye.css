@@ -1,0 +1,29 @@
+header {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-evenly;
+}
+a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 30px;
+}
+section.main img {
+  margin: 10px 0px;
+  width: 40%;
+}
+section.main h1 {
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section.main {
+  background-color: gray;
+}
+
+section.footer {
+  background-color: antiquewhite;
+}
+section.footer img {
+  width: 60%;
+  border-radius: 10px;
+}
